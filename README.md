@@ -80,8 +80,8 @@ The style can be adjusted according to user preferences in the `styles.less` fil
 ```less
 :root {
   // Windows 11 buttons
-  --title-bar-win11-button-hover-bg: rgba(0, 0, 0, 0.08);
-  --title-bar-win11-button-active-bg: rgba(0, 0, 0, 0.05);
+  --title-bar-win11-button-hover-bg: fade(@text-color, 12%);
+  --title-bar-win11-button-active-bg: fade(@text-color, 8%);
   --title-bar-close-hover-bg: #c42b1c;
   --title-bar-close-hover-color: #fff;
 
