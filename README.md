@@ -17,7 +17,7 @@ Fork of [title-bar-replacer](https://github.com/sindrets/atom-title-bar-replacer
 
 ## Installation
 
-To install `title-bar` search for [title-bar](https://web.pulsar-edit.dev/packages/title-bar) in the Install pane of the Pulsar settings or run `ppm install title-bar`. Alternatively, you can run `ppm install asiloisad/pulsar-title-bar` to install a package directly from the GitHub repository.
+To install `title-bar` search for [title-bar](https://web.pulsar-edit.dev/packages/title-bar) in the Install pane of the Pulsar settings or run `ppm install title-bar`. Alternatively, you can run `ppm install asiloisad-pulsar/title-bar` to install a package directly from the GitHub repository.
 
 ## Commands
 
